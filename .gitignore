@@ -1,0 +1,21 @@
+## Visual Studio 
+.vs/ 
+*.user 
+*.suo 
+*.userosscache 
+*.sln.docstates 
+[Bb]in/ 
+[Oo]bj/ 
+[Ll]og/ 
+[Tt]estResults/ 
+*.exe 
+*.dll 
+*.pdb 
+*.nupkg 
+*.snupkg 
+packages/ 
+*.nuspec 
+appsettings.Development.json 
+*.swp 
+*.bak 
+*.tmp 
